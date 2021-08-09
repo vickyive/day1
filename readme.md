@@ -2,9 +2,9 @@
 
 ## 1. JDK安装
 
-(1) 在[Java Archive Downloads - Java SE 16](./jdk16-archive-downloads.html) 中下载jdk
+(1) 在[Java Archive Downloads - Java SE 16](https://www.oracle.com/java/technologies/javase/jdk16-archive-downloads.html) 中下载jdk
 
-![image-20210809120530184](C:\Users\11548\AppData\Roaming\Typora\typora-user-images\image-20210809120530184.png)
+![image-20210809120530184](.\image-20210809120530184.png)
 
 (2) 双击exe文件执行安装
 
