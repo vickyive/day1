@@ -12,9 +12,7 @@
 
 (3) 新建系统环境变量
 
-
-
-<img src="C:\Users\11548\AppData\Roaming\Typora\typora-user-images\image-20210809120945289.png" alt="image-20210809120945289"  />
+![image-20210809120945289](C:\Users\11548\training\environment\image-20210809120945289.png)
 
 点击新建环境变量，添加系统环境变量 JAVA_HOME 以及 classpath
 
