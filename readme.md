@@ -8,13 +8,13 @@
 
 (2) 双击exe文件执行安装
 
-![](C:\Users\11548\AppData\Roaming\Typora\typora-user-images\image-20210809121616798.png)
+![image-20210809121616798.png](image-20210809121616798.png)
 
 (3) 新建系统环境变量
 
 
 
-<img src="C:\Users\11548\AppData\Roaming\Typora\typora-user-images\image-20210809120945289.png" alt="image-20210809120945289" style="zoom: 50%;" />
+<img src="C:\Users\11548\AppData\Roaming\Typora\typora-user-images\image-20210809120945289.png" alt="image-20210809120945289"  />
 
 点击新建环境变量，添加系统环境变量 JAVA_HOME 以及 classpath
 
