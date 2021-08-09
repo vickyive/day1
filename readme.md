@@ -95,6 +95,14 @@ git init
 
 (5)
 
+![image-20210809145604038](C:\Users\11548\AppData\Roaming\Typora\typora-user-images\image-20210809145604038.png)
+
+![image-20210809145617247](C:\Users\11548\AppData\Roaming\Typora\typora-user-images\image-20210809145617247.png)
+
+![image-20210809145647751](C:\Users\11548\AppData\Roaming\Typora\typora-user-images\image-20210809145647751.png)
+
+![image-20210809145656423](C:\Users\11548\AppData\Roaming\Typora\typora-user-images\image-20210809145656423.png)
+
 
 
 
